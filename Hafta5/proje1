@@ -1,5 +1,0 @@
- library(usethis)
-> proj_get()
- usethis::proj_sitrep()
- > install.packages("lintr")
-> library(lintr)
